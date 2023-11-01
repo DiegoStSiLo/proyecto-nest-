@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+table {
+    width: 100%;
+}
+.gratis {
+    width: 70%;
+}
+
+.cabezera {
+    display: flex;
+    background-color: aqua;
+}
+
+
+
+.button {
+    position: relative;
+    left: 70%;
+    background-color: aqua;
+    border-color: aqua;
+    border-radius: 20px;
+    color: chartreuse;
+}
+
+#titulo {
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+
+#img {
+    position: relative;
+    left: 35%;
+}
+
+#input {
+    position: relative;
+    left: 35%;
+    top: 10px;
+    width: 400px;
+    height: 40px;
+}
+
+.kol {
+    width: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
