@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    background-color: aqua;
+}
+.button {
+    position: relative;
+    left: 60%;
+    background-color: aqua;
+    border-color: aqua;
+    border-radius: 20px;
+    color: chartreuse;
+}
+
+#titulo {
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+
+#img {
+    position: relative;
+    left: 35%;
+}
+
+#input {
+    position: relative;
+    left: 35%;
+    top: 10px;
+    width: 400px;
+    height: 40px;
+}
+
+body {
+    position: relative;
+}
+.superior img {
+    position: relative;
+    
+}
